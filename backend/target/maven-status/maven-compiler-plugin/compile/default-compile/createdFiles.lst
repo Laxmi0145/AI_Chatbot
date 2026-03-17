@@ -1,0 +1,3 @@
+ai_service/chabot/controller/AiController.class
+ai_service/chabot/AiServiceApplication.class
+ai_service/chabot/entity/ChatRequest.class

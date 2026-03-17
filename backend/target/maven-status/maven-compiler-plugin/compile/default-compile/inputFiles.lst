@@ -1,0 +1,3 @@
+/workspaces/AI_Chatbot/backend/src/main/java/ai_service/chabot/AiServiceApplication.java
+/workspaces/AI_Chatbot/backend/src/main/java/ai_service/chabot/controller/AiController.java
+/workspaces/AI_Chatbot/backend/src/main/java/ai_service/chabot/entity/ChatRequest.java
